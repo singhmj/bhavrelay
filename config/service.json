@@ -1,0 +1,17 @@
+{
+    "dumper": {
+        "web-server": {
+            "address": "127.0.0.1",
+            "port": 8087
+        },
+        "scheduler": {
+            "hour": 8,
+            "minute": 0,
+            "second": 0
+        }
+    },
+    "bhav": {
+        "url": "https://www1.nseindia.com/content/historical/EQUITIES/{YEAR}/{MONTH}/cm{DATE}bhav.csv.zip",
+        "data_type": "csv"
+    }
+}
